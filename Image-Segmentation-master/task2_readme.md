@@ -1,0 +1,2 @@
+task2.py contains implementation of both standard kmeans and kmeans++ algorithm.
+To use centroid initialisation using kmeans++, comment the line which uses random_center() function to initialise centers
